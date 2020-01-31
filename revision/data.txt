@@ -1,5 +1,1 @@
-Ahmed;Ellouzi;07182957
-Mariem;Rajhi;2356892567
-Rania;Laoubi;13007768
-Rim;Mensi;02315107
-Neila;Hamri;07519000
+nom;prenom;cin
